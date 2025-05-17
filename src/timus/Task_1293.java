@@ -1,3 +1,5 @@
+package timus;
+
 import java.util.Scanner;
 
 public class Task_1293 {
