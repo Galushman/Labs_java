@@ -23,6 +23,6 @@ public class Task2_IFversion {
             System.out.println("6");
         } else if (day.equals("Sunday")) {
             System.out.println("7");
-        } else System.out.println("This name of the day don't exist");
+        } else System.out.println("This name of the day doesn't exist");
     }
 }
