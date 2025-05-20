@@ -22,7 +22,6 @@ public class Task5  {
                 i--;
             }
         }
-
         System.out.println(Arrays.toString(nums));
 
         int sum = 0;
